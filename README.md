@@ -27,6 +27,7 @@ Basicamente, es un editor de cadenas de curvas de bezier hecho para que luego es
   - `CTRL` → Activa o desactiva la grilla.
   - `SHIFT` → Permite mover la grilla libremente (si está activada).
 
+- **‼️ Tener en cuenta que el primer punto de la cadena se considera la linea de llegada.**
 
 ## 📁 Archivos
 ### Guardar 
