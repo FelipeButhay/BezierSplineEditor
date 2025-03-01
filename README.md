@@ -29,6 +29,7 @@ Basicamente, es un editor de cadenas de curvas de bezier hecho para que luego es
 
 
 ## 📁 Archivos
-
-* **Guardar**: Al cerrar el programa, el archivo se guarda automáticamente en la carpeta `saves` como `track_DD-MM-YY_hr-min-sec.bin`.
-* **Cargar**: Para cargar un archivo, colócalo en la carpeta `load` como `load_track.bin`.
+### Guardar 
+Al cerrar el programa, el archivo se guarda automáticamente en la carpeta `saves` como `track_DD-MM-YY_hr-min-sec.bin`.
+### Cargar 
+Para cargar un archivo, colócalo en la carpeta `load` como `load_track.bin`.
