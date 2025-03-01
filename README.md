@@ -1,5 +1,5 @@
 # Editor de Curvas de Bézier para Juego de F1 🏎️🏁
-Basicamente, es un editor de cadenas de curvas de bezier hecho para que luego estas se puedan importar a un juego de F1 que pienso hacer. Intente que sea lo mas sencillo de usar posible pero que a la vez permita ser bastante preciso. El programa cuenta con una grilla, una regla, entre otras herramientas. Fue programado con **C++** y utilizando la libreria de **Raylib**.
+Basicamente, es un editor de cadenas de curvas de bezier hecho para que luego estas se puedan importar a un juego de F1 que pienso hacer. Intente que sea lo mas sencillo de usar posible pero que a la vez permita ser bastante preciso. El programa cuenta con una grilla, una regla, entre otras herramientas. Fue programado con `C++` y utilizando la libreria de `Raylib`.
 
 
 ## 📥 Instalación
